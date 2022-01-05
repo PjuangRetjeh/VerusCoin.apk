@@ -1,2 +1,2 @@
 # VerusCoin.apk
-VerusCoin.apk
+
